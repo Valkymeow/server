@@ -1,0 +1,83 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/YuwGImd.png",
+            "DisableIconText": false,
+            "IconPosition": 3,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 1
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "<RichColor Color=\"0.0745, 0.9882, 0.9882, 1\">Bienvenida</>",
+                    "title1": "Bienvenidos a la comunidad",
+                    "text1": "Soy Valky y este es un servidor PvE que he formado para la comunidad ^^\n\nEste servidor está pensado para unirse en cluster conforme salgan a la luz los demás dlcs. Es importante cumplir las normas para una buena convivencia y te invitamos a unirte a nuestro Discord y al canal de Twitch para estar atento a las novedades!\n\nPuedes acceder a ellos a través de los botones inferiores. ",
+                    "imageurl": "https://pbs.twimg.com/media/F9V1jeJXkAAlz85?format=jpg"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "<RichColor Color=\"0.0745, 0.9882, 0.9882, 1\">Normas</>",
+                    "title1": "Normas del servidor",
+                    "text1": "-Prohibido construir en zonas que entorpezcan la experiencia, como drops, recursos o zonas importantes.\n-No se pueden dejar estructuras por el mapa fuera de tu base que no sean sacos de dormir.\n-Solo está permitida una base por mapa, como mucho un puerto para animales marinos.\n-Prohibido construir en la isla herbívora y carnívora.\n-Las trampas para tamear Dinos deberán recogerse siempre. Podrás conservar las trampas siempre y cuando esté dentro de los muros de tu base.\n-Usa un lenguaje correcto y sé respetuoso con los demás jugadores.\n-Totalmente prohibido el comportamiento PvP (atraer/lanzar dinos salvajes a bases de jugadores, agarrar/encerrar a otro jugador sin consentimiento, robar y/o matar a otro jugador).\n-La delimitación de terreno para una base deberá ser acorde al uso de la misma, si la administración considera que se ha abarcado demasiado terreno inutilizado o inútil se tomarán medidas.\n-No se permite acciones de reserva de terreno con estructuras para evitar que la gente construya.\n-Queda prohibido construir en zonas de recursos importantes, esto incluye spawns de dinos exclusivos.\n-Queda prohibido cerrar caminos y accesos, si es así se deberá desbloquear una puerta lo suficientemente grande por la que pueda pasar mínimo un Bronto.\n-Prohibido dejar tps en zona de farmeo o fuera de tu base bloqueados.\n-No dejar animales en apareamiento activo.\n-Queda totalmente prohibido aprovecharse de algún error del servidor, glitch o bug del juego, debes comentarselo a un administrador\n\nDepende la gravedad del incumplimiento de la norma se podrán utilizar Strikes, con 3 estarás baneado del servidor y de los próximos.",
+                    "imageurl": "https://pbs.twimg.com/media/F9V1jeJXkAAlz85?format=jpg"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "<RichColor Color=\"0.0745, 0.9882, 0.9882, 1\">Configuración</>",
+                    "title1": "Configuración del servidor",
+                    "text1": "-Experiencia y farmeo x3\n-Tameo y crianza x5\n-Intervalo de apareamiento 0.25\n-Calidad de pesca 3.5\n-Nivel máx de dinos salvajes 150\n-Nivel máx de jugador sin ascensiones 105 +5 chibi, + 10 con notas\nEstos rates pueden ser aumentados a favor en Evo-Eventos de fin de semana si llegamos a los goals del canal.",
+                    "imageurl": "https://pbs.twimg.com/media/F9V1jeJXkAAlz85?format=jpg"
+                }
+            },
+            {
+                "tab4": {
+                    "layout": 1,
+                    "buttontext": "<RichColor Color=\"0.0745, 0.9882, 0.9882, 1\">Advertencias</>",
+                    "title1": "Advertencias del servidor",
+                    "text1": "",
+                    "imageurl": "https://pbs.twimg.com/media/F9V1jeJXkAAlz85?format=jpg"
+                }
+            },
+{
+                "tab5": {
+                    "layout": 1,
+                    "buttontext": "<RichColor Color=\"0.0745, 0.9882, 0.9882, 1\">Donaciones</>",
+                    "title1": "Donaciones para el servidor",
+                    "text1": "Las donaciones son necesarias para el mantenimiento de los servidores (aunque no son obligatorias), si deseas aportar tu granito de arena se te obsequiará con recompensas a elección depende de la cantidad.\nAquí debajo tenéis el enlace a una web para poder hacerlo. Después de la donación se deberá contactar con un administrador por discord con captura de pantalla de la donación y los obsequios elegidos, muchas gracias!",
+                    "imageurl": "https://pbs.twimg.com/media/F9V1jeJXkAAlz85?format=jpg"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/KGGPSqjHpw"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Twitch",
+                    "url": "https://www.twitch.tv/valkymeow"
+                }
+            },
+{
+                "link3": {
+                    "text": "Donaciones",
+                    "url": "https://valkysaurios.vercel.app/donaciones/dinosaurios"
+                }
+            }
+        ]
+    }
+}
